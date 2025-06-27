@@ -20,31 +20,6 @@
 
 ---
 
-### 🚀 Projects & Highlights
-
-| Project | Description |
-|--------|-------------|
-| 🔧 [RV32IMZicsr](https://github.com/hilay020905/RV32IMZicsr) | Dual-issue, superscalar **RISC-V core** with MMU, branch prediction, and Linux boot support |
-| 🧠 [Branch_prediction](https://github.com/hilay020905/Branch_prediction) | BTB, BHT, RAS-based **branch prediction unit** with LFSR-based entry allocation |
-| 🛠 [RISC_V_CORE](https://github.com/hilay020905/RISC_V_CORE) | 5-stage pipelined **RISC-V CPU core** with hazard handling and instruction decoding |
-| 🌐 [hilay020905.github.io](https://hilay020905.github.io) | My personal website/portfolio hosted with GitHub Pages |
-
----
-
-### 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/verilog.png" width="50" title="Verilog" />
-  <img src="https://www.vectorlogo.zone/logos/xilinx/xilinx-icon.svg" width="50" title="Xilinx Vivado" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" title="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" title="Python" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" title="Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/GTKWave_logo.png" width="50" title="GTKWave" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
