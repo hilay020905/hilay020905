@@ -1,18 +1,6 @@
 <h1 align="center">Hi there, I'm Hilay Patel 👋</h1>
 <h3 align="center">Aspiring VLSI Engineer | Digital Designer | RISC-V Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://discord.com/users/YOUR-DISCORD-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.buymeacoffee.com/YOUR-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Buy Me a Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
