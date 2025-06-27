@@ -4,12 +4,10 @@
 <p align="center">
   🌐 <a href="https://hilay020905.github.io" target="_blank"><strong>Visit my portfolio</strong></a>
 </p>
-
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ---
 
 ### 🧠 About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔬 I’m deeply interested in **VLSI**, **CPU microarchitecture**, and **SoC Design**
 - ⚙️ Building **RISC-V cores** with pipelining, branch prediction, MMU, and cache integration
