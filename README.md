@@ -66,28 +66,3 @@
 
 ---
 
-### ✍️ Blog Posts (coming soon!)
-> [📘 hilay.tech](https://YOURBLOGHERE.com) — Write-ups on hardware design, simulation tips, RISC-V internals, and more.
-
----
-
-### 💬 Quote of the Day
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Debugging is twice as hard as writing the code in the first place. If you’re as clever as you can be when you write it, how will you ever debug it?❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### 😂 Developer Humor
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&bgColor=%230d1117&textColor=%23fff" alt="Joke" />
-</p>
-
----
-
-⏳ **Year Progress:** `{ ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ }` **48.51%** as of `27-Jun-2025`
-
----
