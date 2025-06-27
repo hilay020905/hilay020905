@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Hilay Patel 👋</h1>
 <h3 align="center">Aspiring VLSI Engineer | Digital Designer | RISC-V Enthusiast</h3>
 
+<p align="center">
+  🌐 <a href="https://hilay020905.github.io" target="_blank"><strong>Visit my portfolio</strong></a>
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -20,10 +24,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔧 `biriscv-npc-analysis` | Deep dive into the **next PC logic** of the biRISC-V processor with branch prediction |
-| 🧠 `rvv-vector-core` | RISC-V **vector processor (RVV)** with custom vector ALUs and memory coalescing |
-| 🧪 `superscalar-rv32im` | Dual-issue, superscalar **in-order RISC-V core** with MMU and Linux boot support |
-| 📦 `fpga-pipeline-demo` | Verilog implementation of a 5-stage pipeline with hazard handling and branch units |
+| 🔧 [RV32IMZicsr](https://github.com/hilay020905/RV32IMZicsr) | Dual-issue, superscalar **RISC-V core** with MMU, branch prediction, and Linux boot support |
+| 🧠 [Branch_prediction](https://github.com/hilay020905/Branch_prediction) | BTB, BHT, RAS-based **branch prediction unit** with LFSR-based entry allocation |
+| 🛠 [RISC_V_CORE](https://github.com/hilay020905/RISC_V_CORE) | 5-stage pipelined **RISC-V CPU core** with hazard handling and instruction decoding |
+| 🌐 [hilay020905.github.io](https://hilay020905.github.io) | My personal website/portfolio hosted with GitHub Pages |
 
 ---
 
@@ -53,4 +57,3 @@
 </p>
 
 ---
-
