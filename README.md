@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Hilay Patel 👋</h1>
 <h3 align="center">Aspiring VLSI Engineer | Digital Designer | RISC-V Enthusiast</h3>
 
+---
+
 <p align="center">
   🌐 <a href="https://hilay020905.github.io" target="_blank"><strong>Visit my portfolio</strong></a>
 </p>
