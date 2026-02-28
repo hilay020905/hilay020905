@@ -53,14 +53,5 @@ I build **synthesizable, high-performance RISC-V cores** from scratch — focusi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilay020905&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
----
 
-## 📫 Let's Connect
 
-Always open to **research internships, collaborations, or open-source contributions** in **VLSI / RISC-V / Hardware Acceleration**.
-
-Crafting the future, one gate at a time ⚡
-
----
-
-*Made with ❤️ for the open-source hardware community*
