@@ -24,48 +24,7 @@ I build **synthesizable, high-performance RISC-V cores** from scratch — focusi
 
 ---
 
-## 🔥 Featured Projects
 
-**🚀 RV32IMZicsr** — *Flagship Project*  
-Dual-issue, **7-stage in-order** RISC-V core (RV32IM + Zicsr) with configurable **GShare/Bimodal branch prediction**, BTB, RAS, and full **MMU** support. Dual ALUs + dedicated LSU.  
-→ **[Repository](https://github.com/hilay020905/RV32IMZicsr)**
-
-**🧬 RV32IV** — RISC-V Vector Extension  
-Full **RVV 1.0** vector unit implementation on top of a clean 5-stage RV32I pipeline — perfect for hardware acceleration.  
-→ **[Repository](https://github.com/hilay020905/RV32IV)**
-
-**📟 5-Stage Pipelined RV32I Core**  
-Fully functional pipeline with hazard detection, forwarding, and thorough testbenches.  
-→ **[Repository](https://github.com/hilay020905/RISC_V_CORE)**
-
-**🎮 ProjectWarped3D** — Custom GPU in Verilog  
-Complete RTL-based **2D/3D shape renderer** (cube, sphere, prism, etc.) — framebuffer, VGA timing, and shape engines from scratch.  
-→ **[Repository](https://github.com/hilay020905/ProjectWarped3D)**
-
----
-
-## 🎥 Project Demos & Visuals
-
-**ProjectWarped3D Live Renders**
-
-<p align="center">
-  <img src="https://github.com/hilay020905/ProjectWarped3D/raw/main/IMAGES/cube.bmp" width="220" alt="Cube"/>
-  <img src="https://github.com/hilay020905/ProjectWarped3D/raw/main/IMAGES/cuboid.bmp" width="220" alt="Cuboid"/>
-  <img src="https://github.com/hilay020905/ProjectWarped3D/raw/main/IMAGES/prism.bmp" width="220" alt="Prism"/>
-</p>
-
-**Add your own video demo here (recommended!)**  
-Record a quick **GTKWave simulation** or **FPGA demo** (30–60 seconds), upload to YouTube, and replace the link below:
-
-<div align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_ID_HERE">
-    <img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video"/>
-  </a>
-</div>
-
-*(Pro tip: Convert GTKWave waveform + assembly execution into a GIF using ScreenToGif for instant wow factor)*
-
----
 
 ## 🛠️ Skills & Tools
 
