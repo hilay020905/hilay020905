@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hilay Patel 👋</h1>
-<h3 align="center">B.Tech Electrical Engineering '27 @ IIT Tirupati | VLSI Engineer | RISC-V Core Designer</h3>
+<h3 align="center">B.Tech Electrical Engineering '27 @ IIT Tirupati | VLSI Engineer >
 
 <p align="center">
   <a href="https://hilay020905.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
